@@ -1,5 +1,7 @@
 package hu.bme.mit.spaceship;
-//modify for branch A
+
+//merged
+
 /**
 * Weapon firing mode enumeration
 *
